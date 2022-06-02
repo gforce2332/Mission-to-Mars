@@ -1,5 +1,5 @@
 # Mission to Mars
-#### Created a responsive web application with Flask to scrape websites for data pertaining to the Mission to Mars. An HTML page was then created to display the findings.
+Created a responsive web application with Flask to scrape websites for data pertaining to the Mission to Mars. An HTML page was then created to display the findings.
 
 
 ## Table of Contents
