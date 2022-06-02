@@ -29,5 +29,6 @@ This project consisted of producing a final project with a fully functional web 
 ![Mission to Mars](https://user-images.githubusercontent.com/98711219/171524529-63975a33-acde-4ba8-af9d-b0b13aacb987.png)
 
 *Viewing it from an Ipad:*
+
 ![Mission to Mars ipad](https://user-images.githubusercontent.com/98711219/171524617-bc265114-5b45-48e6-8fc9-6535f202c878.png)
 
